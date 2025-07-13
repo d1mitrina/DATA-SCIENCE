@@ -1,0 +1,11 @@
+Gender,Age,StudyHours,PassedExam
+Female,17,5.0,YES
+Male,18,3.5,NO
+Female,,4.0,YES
+Male,17,,NO
+Female,18,6.0,YES
+Male,19,2.5,NO
+Female,,3.0,YES
+Female,18,5.5,YES
+Male,17,,NO
+Male,,4.5,YES
